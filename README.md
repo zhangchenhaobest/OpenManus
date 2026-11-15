@@ -1,3 +1,29 @@
+# OpenManus
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+No fortress, purely open ground.  OpenManus is Coming.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+没有堡垒、只有开放之地的 OpenManus。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="assets/logo.jpg" width="200"/>
 </p>
